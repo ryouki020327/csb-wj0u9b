@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ryouki020327.github.io/csb-wj0u9b/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ryouki020327.github.io/csb-wj0u9b/static/js/main.85a5c2ee.chunk.js",
+    "main.js.map": "https://ryouki020327.github.io/csb-wj0u9b/static/js/main.85a5c2ee.chunk.js.map",
+    "runtime-main.js": "https://ryouki020327.github.io/csb-wj0u9b/static/js/runtime-main.4738ce1a.js",
+    "runtime-main.js.map": "https://ryouki020327.github.io/csb-wj0u9b/static/js/runtime-main.4738ce1a.js.map",
+    "static/js/2.b4a21da1.chunk.js": "https://ryouki020327.github.io/csb-wj0u9b/static/js/2.b4a21da1.chunk.js",
+    "static/js/2.b4a21da1.chunk.js.map": "https://ryouki020327.github.io/csb-wj0u9b/static/js/2.b4a21da1.chunk.js.map",
+    "index.html": "https://ryouki020327.github.io/csb-wj0u9b/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ryouki020327.github.io/csb-wj0u9b/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b4a21da1.chunk.js.LICENSE.txt": "https://ryouki020327.github.io/csb-wj0u9b/static/js/2.b4a21da1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4738ce1a.js",
+    "static/js/2.b4a21da1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.85a5c2ee.chunk.js"
+  ]
+}
